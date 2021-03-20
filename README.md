@@ -2,7 +2,7 @@
 This repository is going to house or contain the projects created by Kenny Morrow
 Hi Everyone!
 
-Kenny Morrow here in Colroado Springs, Colorado.
+Kenny Morrow here in Colorado Springs, Colorado.
 
 I am a USAF Veteran who graduated from the University of Colorado with my Bachelors in Geography and Environemtnal Science.
 
